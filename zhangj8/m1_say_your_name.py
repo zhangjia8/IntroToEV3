@@ -24,7 +24,7 @@ def main():
     print("--------------------------------------------")
     print("  My demo")
     print("--------------------------------------------")
-    ev3.Sound.speak(" I am EV3").wait()
+    ev3.Sound.speak(" I am Jiatong Zhang").wait()
 
 
 main()
